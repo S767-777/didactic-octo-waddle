@@ -37,8 +37,16 @@ You are within your budget. Happy shopping!
 - Python 3.x
 - No external libraries needed
 
-## What I'd add next
+## What I learned from building this
 
-- Save shopping lists to a file
-- Support for multiple shopping trips
-- Ability to remove items before finalizing
+This project uses core Python concepts including:
+
+- **Variables & data types** — strings, floats, and booleans to store user input and prices
+- **Conditionals** — `if/else` logic to compare total cost against the budget
+- **Loops** — a `while` loop to keep adding items until the user is done
+- **Lists & tuples** — storing each item and its price as a tuple inside a list
+- **List comprehensions** — summing prices with a generator expression
+- **User input & formatting** — `input()` for interaction, f-strings for clean output
+
+I'm still early in learning Python and plan to keep improving and post more or improve this over time
+
