@@ -13,7 +13,7 @@ A simple command-line tool that helps you manage a shopping trip within a set bu
 
 Make sure you have Python installed, then:
 ```
-git clone https://github.com/yourname/budget-tracker
+git clone https://github.com/S767-777/budget-tracker
 cd budget-tracker
 python main.py
 ```
